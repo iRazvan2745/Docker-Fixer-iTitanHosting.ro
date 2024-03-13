@@ -1,3 +1,6 @@
+#!/bin/bash
+#!/usr/bin/env bash
+
 
 # Define options
 options=("iTitanHosting.ro" "Other")
