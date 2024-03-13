@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # Define options
 options=("iTitanHosting.ro" "Other")
