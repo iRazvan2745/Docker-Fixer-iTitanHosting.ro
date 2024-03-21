@@ -23,7 +23,6 @@ wget https://github.com/iRazvan2745/Docker-Fixer-iTitanHosting.ro/blob/main/Daem
 systemctl restart docker
 docker network ls
 systemctl start wings
-break
 ;;
 "Other")
 echo "You selected Other"
