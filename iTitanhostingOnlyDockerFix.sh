@@ -1,6 +1,8 @@
 #!/bin/bash
 
 
+echo "Script will start now"
+
 systemctl stop wings
 apt remove docker-ce
 apt install docker-ce
@@ -12,3 +14,6 @@ wget https://github.com/iRazvan2745/Docker-Fixer-iTitanHosting.ro/blob/main/Daem
 systemctl restart docker
 docker network ls
 systemctl start wings
+
+
+echo "Script has ran succesfully"
