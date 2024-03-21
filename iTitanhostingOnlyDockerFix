@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 systemctl stop wings
 apt remove docker-ce
 apt install docker-ce
