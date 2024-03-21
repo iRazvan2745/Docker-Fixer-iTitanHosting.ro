@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+clear
 echo "Script will start now"
 
 systemctl stop wings
